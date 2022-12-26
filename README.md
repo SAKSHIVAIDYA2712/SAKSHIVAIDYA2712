@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**SAKSHIVAIDYA2712/SAKSHIVAIDYA2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sakshi Devidas Vaidya</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshivaidya2712&label=Profile%20views&color=0e75b6&style=flat" alt="sakshivaidya2712" /> </p>
+
+- 🔭 I’m currently working on **Student Database Management System using php and Mysql**
+
+- 🌱 I’m currently learning **Web development**
+
+- 💬 Ask me about **HTML, CSS, JS, PHP, SQL**
+
+- 📫 How to reach me **sakshivaidya2712@gmail.com**
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshivaidya2712&show_icons=true&locale=en&layout=compact" alt="sakshivaidya2712" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshivaidya2712&" alt="sakshivaidya2712" /></p>
